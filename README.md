@@ -19,4 +19,17 @@ You provide the **job title** you want, and the agent will:
 ## Tech Stack
 - **Python** – Core implementation  
 - **OpenAI Web Search** – For finding job postings  
-- **Email Integration** – SendGrid for email notifications 
+- **Email Integration** – SendGrid for email notifications
+
+---
+4. The report is sent to the user’s email.  
+
+---
+
+## Installation
+- env
+OPENAI_API_KEY=your_api_key_here
+EMAIL_USER=your_email@example.com
+EMAIL_PASS=your_password
+SENDGRID_API_KEY = your_api_key_here
+
