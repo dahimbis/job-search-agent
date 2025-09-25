@@ -27,9 +27,9 @@ You provide the **job title** you want, and the agent will:
 ---
 
 ## Installation
-- env
-OPENAI_API_KEY=your_api_key_here
-EMAIL_USER=your_email@example.com
-EMAIL_PASS=your_password
-SENDGRID_API_KEY = your_api_key_here
+### env
+- OPENAI_API_KEY=your_api_key_here
+- EMAIL_USER=your_email@example.com
+- EMAIL_PASS=your_password
+- SENDGRID_API_KEY = your_api_key_here
 
