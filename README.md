@@ -37,6 +37,6 @@ You provide the **job title** you want, and the agent will:
 
 The email includes the subject title, the company, the application deadline, the link and H1b Status
 
-![Job Agent 1Job%20Agent%201.png)
-![Job Agent 2(Job%20Agent%20.png)
-![Summary](Report%20Agent%20.png)
+![Job Agent ](Job%20Agent%201.png).
+![Job Agent 2](Job%20Agent%202.png).
+![Summary](Report%20Agent.png)
